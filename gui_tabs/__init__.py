@@ -1,0 +1,3 @@
+"""
+GUI Tabs package initialization
+"""
